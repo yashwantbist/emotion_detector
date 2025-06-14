@@ -21,4 +21,3 @@ The output also includes the **dominant emotion** based on the highest score.
 - **Flask** – Web framework
 - **Requests** – To send HTTP requests to Watson API
 - **IBM Watson NLP** – Cloud-based Emotion Prediction
-- 
